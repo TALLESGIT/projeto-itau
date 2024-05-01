@@ -30,7 +30,7 @@ function SectionHero() {
                     </S.DivButtonExplorer>
 
                 </S.DivLeft>
-                <S.ImgWoman src={ImageWoman } alt="" Image-Woman/>
+                <S.ImgWoman src={ImageWoman} alt="" Image-Woman />
             </S.Container>
         </S.Section>
     )
