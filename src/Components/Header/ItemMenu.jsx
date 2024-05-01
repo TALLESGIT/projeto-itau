@@ -1,4 +1,4 @@
-import ArrowDomw from "../assets/arrow-down.svg";
+import ArrowDomw from "../../assets/arrow-down.svg";
 import * as S from "./styles"
 
 function ItemMenu({name}) {
